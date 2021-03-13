@@ -18,4 +18,4 @@ A program that adds your liked songs from Youtube to a new Spotify playlist.
 * <a href="https://developer.spotify.com/console/post-playlists/">OAuth</a> - when generating a new token make sure you check all the boxes
 
 # <a name="youtube-setup">Youtube Setup</a>
-* <a href="https://developers.google.com/youtube/v3/getting-started/">Youtube Data Api</a>
+* <a href="https://developers.google.com/youtube/v3/getting-started/">Youtube Data Api</a> - make a new desktop application project
