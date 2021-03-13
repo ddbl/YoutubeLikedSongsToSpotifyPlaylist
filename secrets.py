@@ -1,4 +1,4 @@
 
-spotify_token = ""
-spotify_user_id = ""
+spotify_token = "your oath spotify token"
+spotify_user_id = "your spotify user id"
 
