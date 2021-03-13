@@ -1,20 +1,17 @@
-"""
-Step 1: Log in into Youtube
-Step 2: Grab our liked videos
-Step 3: Create a new playlist
-Step 4: Search for the song
-Step 5: Create a new Spotify playlist and add the song into the new playlist
-"""
 import json
-import requests
-from secrets import spotify_user_id, spotify_token
-
 import os
 
 import google_auth_oauthlib.flow
 import googleapiclient.discovery
 import googleapiclient.errors
+import requests
 import youtube_dl
+
+from secrets import spotify_user_id, spotify_token
+
+
+
+
 
 
 class CreatePlaylist:
