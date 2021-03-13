@@ -9,11 +9,6 @@ import youtube_dl
 
 from secrets import spotify_user_id, spotify_token
 
-
-
-
-
-
 class CreatePlaylist:
 
     def __init__(self):
