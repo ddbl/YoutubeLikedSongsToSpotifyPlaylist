@@ -13,7 +13,7 @@ A program that adds your liked songs from Youtube to a new Spotify playlist.
 * <a href="https://github.com/ytdl-org/youtube-dl">youtube-dl</a>
 * <a href="https://pypi.org/project/requests/">requests</a>
 
-# <a name="spotify-setup">Spotift Setup</a>
+# <a name="spotify-setup">Spotify Setup</a>
 * <a href="https://www.spotify.com/us/account/overview/">Username</a>
 * <a href="https://developer.spotify.com/console/post-playlists/">OAuth</a> - when generating a new token make sure you check all the boxes
 
