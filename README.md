@@ -1,4 +1,4 @@
-# Youtube-Liked-Songs-To-Spotify-Playlist
+# Youtube Liked Songs To Spotify Playlist
 A program that adds your liked songs from Youtube to a new Spotify playlist.
 
 
